@@ -9,6 +9,8 @@
 	margin: 0 auto;
 	background: #ffffff;
 	border-color: #cccccc;
+}body{
+	font:#777777;
 }
 
 h1{
@@ -51,11 +53,11 @@ li{
 
 .entirecontentarea
 {
+	background-image: url("../images/sayagata.png");
 	width: 960px;
 	margin: 0 auto;
 	/*background:#ffffff;*/
-	background:red;
-	font:#777777;
+	
 	overflow: auto;
 
 }
@@ -70,11 +72,11 @@ li{
 {
 	width:500px;
 	float: left;
-	background: green;
 	margin-left: 75px;
 	margin-top: 20px;
 	margin-bottom: 20px;
 	padding: 15px;
+	background: #ffffff;
 		
 }
 
@@ -102,7 +104,7 @@ li{
 	margin-bottom: 20px;
 	padding-bottom: 20px;
 	padding-left: 15px;
-	background:blue;
+	background: #ffffff;
 	float:left;
 }
 .image{
@@ -118,9 +120,9 @@ li{
 }
 
 footer{
-	height : 100px;
-	width:960px;
+	height : 75px;
+	width: 960px;
 	margin: 0 auto;
-	background-color: gray;
-	border: 1px solid red;
+	background-color: #666666;
+	border-top: 5px #4aaaa5;
 }

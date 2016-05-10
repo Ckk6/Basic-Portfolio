@@ -9,7 +9,7 @@ h1 h2 h6{font-family: "Georgia","Times",Times New Roman,serif;}
 	width: 960px;
 	height: 30px;
 	margin: 0 auto;
-	background: #ffffff;
+	background-color: #ffffff;
 	border-color: #cccccc;
 }
 
@@ -23,7 +23,7 @@ h1{
 	padding: 20px;
 	margin-left: 75px;
 	margin-right: 175px;
-	background: #4aaaa5;
+	background-color: #4aaaa5;
 	min-height: 40px;
 }
 
@@ -50,9 +50,8 @@ li{
 .entirecontentarea{
 	width: 960px;
 	margin: 0 auto;
-	/*background:#ffffff;*/
-	background:red;
-	font:#777777;
+	background-image: url("../images/sayagata.png");
+	font-color: #777777;
 	overflow: auto;
 }
 
@@ -60,7 +59,7 @@ li{
 .mainsectioncontent{
 	width:500px;
 	float: left;
-	background: green;
+	background: #ffffff;
 	margin-left: 75px;
 	margin-top: 20px;
 	margin-bottom: 20px;
@@ -85,7 +84,7 @@ li{
 	margin-left: 50px;
 	margin-bottom: 20px;
 	padding-bottom:20px;
-	background:blue;
+	background: #ffffff;
 	float:left;
 }
 
@@ -106,9 +105,9 @@ li{
 
 
 footer{
-	height : 100px;
+	height : 50px;
 	width:960px;
 	margin: 0 auto;
-	background-color: gray;
-	border: 1px solid red;
+	background-color: #666666;
+	border: 5px #4aaaa5;
 }
